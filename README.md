@@ -28,4 +28,4 @@ How to run:
 
 6) Enjoy!
 
-<img src="./image/gui_overview.png" width="400">
+<img src="./image/gui_overview.png" width="600">
