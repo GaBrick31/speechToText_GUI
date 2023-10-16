@@ -3,13 +3,13 @@ A python based windows graphical interface to use openAI speechToText.
 
 How to install: 
 
-1) Install [python3](https://docs.python.org/fr/3/using/windows.html).
+1) Install [python3](https://docs.python.org/fr/3/using/windows.html)
 2) Install openAI API by running the following in a windows powershell:
 ```
  pip install openai
 ```
 
-3) Get yourself an [openAI API key](https://help.openai.com/en/articles/4936850-where-do-i-find-my-secret-api-key).
+3) Get yourself an [openAI API key](https://help.openai.com/en/articles/4936850-where-do-i-find-my-secret-api-key)
 
 How to run: 
 
