@@ -1,6 +1,8 @@
 # speechToText_GUI
 A python based windows graphical interface to use openAI speechToText.
 
+You can either download the standalone spech_to_text.exe file meant to be run without any prior instllation of python and dependancies (built with pyinstaller --onefile) or follow the following installtion instruction for use/modification with python. 
+
 How to install: 
 
 1) Install [python3](https://docs.python.org/fr/3/using/windows.html)
@@ -26,4 +28,4 @@ How to run:
 
 6) Enjoy!
 
-![GUI overview](./image/gui_overview.png)
+<img src="./image/gui_overview.png" width="400">
