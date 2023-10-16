@@ -24,7 +24,7 @@ How to run:
 
 5) (Optional) Select your output text file in the third field. 
 
-6) Run either Transcribe or translate
+6) Run either Transcribe or Translate functions
 
 7) Enjoy!
 
