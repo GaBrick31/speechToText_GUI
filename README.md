@@ -25,3 +25,5 @@ How to run:
 5) Run either Transcribe or translate
 
 6) Enjoy!
+
+![GUI overview](./images/gui_overview.png)
