@@ -26,4 +26,4 @@ How to run:
 
 6) Enjoy!
 
-![GUI overview](./images/gui_overview.png)
+![GUI overview](./image/gui_overview.png)
