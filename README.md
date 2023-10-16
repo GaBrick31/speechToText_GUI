@@ -7,7 +7,9 @@ How to install:
 
 2) Install dependancies (openAI API).
 -Run the following line in windows powershell:
-''' pip install openai'''
+```
+ pip install openai
+```
 
 3) Get yourself an openAI API key (URL).
 
